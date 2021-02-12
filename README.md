@@ -78,7 +78,7 @@ Once the project has been cloned and you have all the necessary items on your lo
 # ☎️ Support / Contact Details
 
 * [Ben McFarland](mailto:benrmcfarland@gmail.com)
-* [Bess Campbell](bess.k.campbell@gmail.com)
+* [Bess Campbell](mailto:bess.k.campbell@gmail.com)
 
 
 # 🐛 Bugs / Issues
