@@ -6,7 +6,7 @@
         <img src="https://avatars3.githubusercontent.com/u/55816973?s=460&u=46b7375105009121ce5ce53643553fef0ba2be14&v=4" width="150px" height="auto">
     </a>
     <a href="https://github.com/besscampbell">
-        <img src="https://github.com/besscampbell.png" width="150px" height="auto">x
+        <img src="https://github.com/besscampbell.png" width="150px" height="auto">
 </p>
 
 <p align="center">
